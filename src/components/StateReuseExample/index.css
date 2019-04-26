@@ -1,0 +1,16 @@
+.ellipsice {
+  text-overflow: ellipsis;
+  width: 20rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.statefull_wrap1 {
+  border: 1px solid red;
+  padding: 2rem;
+}
+.statefull_wrap2 {
+  border: 1px solid green;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
